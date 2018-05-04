@@ -9,5 +9,5 @@
 'use strict';
 
 exports.awesome = function() {
-  return 'awesome,libn! 2016.10.000  libn';
+  return 'awesome,libn! 2018.05.05';
 };
