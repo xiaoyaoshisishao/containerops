@@ -3,6 +3,8 @@
 var demo = require('../lib/demo.js');
 
 /*
+libn
+
   ======== A Handy Little Mocha Reference ========
   https://github.com/visionmedia/mocha/
 

@@ -9,5 +9,5 @@
 'use strict';
 
 exports.awesome = function() {
-  return 'awesome,qinyujia! 2016.10.000';
+  return 'awesome,libn! 2016.10.000  libn';
 };
